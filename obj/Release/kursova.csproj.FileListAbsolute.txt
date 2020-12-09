@@ -1,0 +1,15 @@
+D:\kursova\bin\Release\kursova.exe.config
+D:\kursova\bin\Release\kursova.exe
+D:\kursova\bin\Release\kursova.pdb
+D:\kursova\obj\Release\kursova.csprojAssemblyReference.cache
+D:\kursova\obj\Release\MainWindow.g.cs
+D:\kursova\obj\Release\App.g.cs
+D:\kursova\obj\Release\kursova_MarkupCompile.cache
+D:\kursova\obj\Release\kursova_MarkupCompile.lref
+D:\kursova\obj\Release\MainWindow.baml
+D:\kursova\obj\Release\kursova.g.resources
+D:\kursova\obj\Release\kursova.Properties.Resources.resources
+D:\kursova\obj\Release\kursova.csproj.GenerateResource.cache
+D:\kursova\obj\Release\kursova.csproj.CoreCompileInputs.cache
+D:\kursova\obj\Release\kursova.exe
+D:\kursova\obj\Release\kursova.pdb
